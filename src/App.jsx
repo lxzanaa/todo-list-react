@@ -58,7 +58,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-200 flex flex-col">
       <header className="p-6 bg-[#f4a226] text-center">
-        <h1 className="text-black font__">🏝️ FAR AWAY 🧳</h1>
+        <h1 className="text-black font__ text-7xl">🏝️ FAR AWAY 🧳</h1>
       </header>
       <section className="bg-[#e5771f] p-7 flex items-center justify-center gap-10">
         <h3 className="text-2xl font-bold">What do you need for your trip?</h3>

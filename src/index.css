@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "font__";
-  src: url('../font/5h1aiZUrOngCibe4TkHLQg.woff2');
+    font-family: "font__";
+    src: url('../font/5h1aiZUrOngCibe4TkHLQg.woff2');
 }
 .font__ {
-  font-family: "font__";
+    font-family: "font__";
 }
